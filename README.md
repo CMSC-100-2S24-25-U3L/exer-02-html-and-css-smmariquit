@@ -25,9 +25,12 @@ Right now I'm particularly interested in studying data science, game development
 - 🤝 Meeting new people 
 
 Reach me at semariquit@gmail.com.
-See my portfolio at https://github.com/CMSC-100-2S24-25-U3L/exer-02-html-and-css-smmariquit
+
+See my portfolio at https://smmariquit@github.io
 
 This portfolio is in partial satisfaction of CMSC 100 - Web Programming. 
+
 It is deployed via GitHub Pages, which only requires you to place your web files in a repository named <username>.github.io. 
 No further setup is needed and you will be able to access your website with the same URL as the repository name.
+
 I learned in this exercise that punctuality is a very valuable virtue and you can do quite a lot with simple HTML and CSS websites.
