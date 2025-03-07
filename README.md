@@ -26,7 +26,7 @@ Right now I'm particularly interested in studying data science, game development
 
 Reach me at semariquit@gmail.com.
 
-See my portfolio at https://smmariquit@github.io
+See my portfolio at https://smmariquit.github.io
 
 This portfolio is in partial satisfaction of CMSC 100 - Web Programming. 
 
