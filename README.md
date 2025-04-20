@@ -33,4 +33,8 @@ This portfolio is in partial satisfaction of CMSC 100 - Web Programming.
 It is deployed via GitHub Pages, which only requires you to place your web files in a repository named <username>.github.io. 
 No further setup is needed and you will be able to access your website with the same URL as the repository name.
 
+REFERENCES:
+- HTML/CSS structure of my LinkedIn page
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 I learned in this exercise that punctuality is a very valuable virtue and you can do quite a lot with simple HTML and CSS websites.
